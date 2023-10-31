@@ -1,4 +1,4 @@
-baseUrl: "https://aryndam9.github.io/info/"
+baseUrl: "https://aryndam9.github.io/"
 languageCode: en-us
 theme: terminal
 paginate: 5
@@ -9,13 +9,18 @@ params:
   # ["orange", "blue", "red", "green", "pink"]
   themeColor: orange
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems: 3
+  showMenuItems: 4
   # show selector to switch language
   showLanguageSelector: false
   # set theme to full screen width
   fullWidthTheme: false
   # center theme with default width
   centerTheme: true
+  # favicon
+  favicon: neural.ico
+  showLastUpdate: true
+  updatedDatePrefix: Modified
+
 
 languages:
   en:
