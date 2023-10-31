@@ -25,15 +25,21 @@ params:
 languages:
   en:
     languageName: English
-    title: Your site title
-    subtitle: Your site subtitle
+    title: Arindam Ghosh
+    subtitle: Get more info about Arindam
     keywords: ''
+    copyright: Arindam
     menuMore: Show more
     readMore: Read more
     readOtherPosts: Read other posts
+    newerPosts: Newer posts
+    olderPosts: Older posts
+    missingContentMessage: Page not found...
+    missingBackButtonLabel: Back to home page
 
     params:
       logo:
+        logoBlink: '>_'
         logoText: Arindam Ghosh
         logoHomeLink: /
 
