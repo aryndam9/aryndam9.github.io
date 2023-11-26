@@ -1,53 +1,68 @@
 baseUrl: "https://aryndam9.github.io/"
 languageCode: en-us
 theme: terminal
-paginate: 5
+paginate: 10
 
 params:
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName: posts
+  contentTypeName: experience
   # ["orange", "blue", "red", "green", "pink"]
   themeColor: orange
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems: 4
+  showMenuItems: 6
   # show selector to switch language
   showLanguageSelector: false
   # set theme to full screen width
   fullWidthTheme: false
   # center theme with default width
   centerTheme: true
+  singlePageSite: true
   # favicon
   favicon: neural.ico
-  showLastUpdate: true
-  updatedDatePrefix: Modified
+  # showLastUpdate: true
+  # updatedDatePrefix: Modified
 
 
 languages:
   en:
-    languageName: English
-    title: Arindam Ghosh
-    subtitle: Get more info about Arindam
-    keywords: ''
-    copyright: Arindam
+    title: Arindam Ghosh / Computer Vision Researcher
+    subtitle: Arindam Ghosh's Portfolio
+    keywords: >-
+      machine learning deep learning artificial intelligence computer vision data science
+      neural network medical imaging image processing image analysis bioinformatics
+      hackathons pytorch tensorflow keras scikit-learn opencv python c++/c
+    copyright: © 2023 Arindam Ghosh
     menuMore: Show more
     readMore: Read more
     readOtherPosts: Read other posts
-    newerPosts: Newer posts
-    olderPosts: Older posts
-    missingContentMessage: Page not found...
-    missingBackButtonLabel: Back to home page
-
     params:
       logo:
         logoBlink: '>_'
         logoText: Arindam Ghosh
         logoHomeLink: /
-
     menu:
       main:
-      - identifier: about
-        name: About
-        url: /about
-      - identifier: showcase
-        name: Showcase
-        url: /showcase
+        - identifier: about
+          name: About
+          url: /#about
+          weight: 1
+        - identifier: skills
+          name: Skills
+          url: /#skills
+          weight: 2
+        - identifier: experience
+          name: Experience
+          url: /experience
+          weight: 3
+        - identifier: projects
+          name: Projects
+          url: /projects
+          weight: 4
+        - identifier: education
+          name: Education
+          url: /#education
+          weight: 5
+        - identifier: contact
+          name: Contact
+          url: /#contact
+          weight: 6
