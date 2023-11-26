@@ -2,7 +2,7 @@
     background: repeating-linear-gradient(
         90deg
         ,var(--accent),var(--accent) 4px,transparent 0,transparent 10px);
-        animation: cursor 5s 1;
+        animation: cursor 3s 1;
         animation-timing-function: ease-in-out;
 
 }
@@ -14,11 +14,7 @@
   --border-color: rgba(255, 255, 255, .1);
 }
 
-  
-body {
-    color: #f2eee7;
-}
-
+/* for the blinking logo and animation part ------------------------------------------------ */
 .blink_logo{
   animation: blink 1s infinite;
   animation-timing-function: linear;
@@ -36,13 +32,11 @@ body {
 }
 
 @keyframes cursor {
-    0% {
-      width: 0;
-    }
-    50% {
-      width: 90%;
-    }
-    100% {
-      width: 0;
-    }
+  0% {
+    width: 0;
   }
+  100% {
+    width: 90%;
+  }
+}
+
