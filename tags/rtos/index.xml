@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rtos on Arindam Ghosh / Computer Vision Researcher</title>
+    <link>https://aryndam9.github.io/tags/rtos/</link>
+    <description>Recent content in rtos on Arindam Ghosh / Computer Vision Researcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Arindam Ghosh</copyright>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/tags/rtos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IRIS Flight Software Development</title>
+      <link>https://aryndam9.github.io/projects/iris-rover/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aryndam9.github.io/projects/iris-rover/</guid>
+      <description>Github
+I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover. The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS. The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.
+Links: Github </description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/PlanetaryRobotics/CubeRoverPackage&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover.
+The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS.
+The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.&lt;/p&gt;
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PlanetaryRobotics/CubeRoverPackage&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

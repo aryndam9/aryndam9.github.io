@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robotics on Arindam Ghosh / Computer Vision Researcher</title>
+    <link>https://aryndam9.github.io/tags/robotics/</link>
+    <description>Recent content in robotics on Arindam Ghosh / Computer Vision Researcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Arindam Ghosh</copyright>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous Navigation System for Mapping &amp; Traversing Rugged Terrain</title>
+      <link>https://aryndam9.github.io/projects/cp-capstone/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aryndam9.github.io/projects/cp-capstone/</guid>
+      <description>Github
+The Northrop Grumman Collaboration Project (NGCP) is a project-club at Cal Poly that participates in engineering challenges posed by Northrop Grumman. The collaboration project is with Northrop Grumman, in addition to Cal Poly Pomona with whom the work for the engineering challenge is split with. The 2019 school year had a new mission which was a rugged-terrain rescue mission. My peers and I were tasked with with sensing and intelligence for one of their new vehicles.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/justinnuwin/NGCP-Capstone-UGV&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Northrop Grumman Collaboration Project (NGCP) is a project-club at Cal Poly that participates in engineering challenges posed by Northrop Grumman.
+The collaboration project is with Northrop Grumman, in addition to Cal Poly Pomona with whom the work for the engineering challenge is split with.
+The 2019 school year had a new mission which was a rugged-terrain rescue mission.
+My peers and I were tasked with with sensing and intelligence for one of their new vehicles.&lt;/p&gt;
+
+  &lt;img src=&#34;https://aryndam9.github.io/projects/cp-capstone/poster.png&#34;  alt=&#34;ASR Music Evaluation semester project poster&#34;  class=&#34;center&#34;  /&gt;
+
+
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/projects/cp-capstone/report.pdf&#34;&gt;Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/projects/cp-capstone/poster.png&#34;&gt;Poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/justinnuwin/NGCP-Capstone-UGV&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

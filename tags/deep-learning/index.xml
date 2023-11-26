@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on Arindam Ghosh / Computer Vision Researcher</title>
+    <link>https://aryndam9.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep learning on Arindam Ghosh / Computer Vision Researcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Arindam Ghosh</copyright>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluation of ASR in Musical Environments</title>
+      <link>https://aryndam9.github.io/projects/asr-music-semester-project/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aryndam9.github.io/projects/asr-music-semester-project/</guid>
+      <description>Github
+ASR is used heavily in eyes-busy or hands-busy situations and often time the user may be speaking over noise. My peers and I are particularly interested in how music effects ASR decoding. We use several music datasets of varied genre or broken-down instrumentation to allow us to perform in-depth anaysis of how different aspects of music influences speech recognizer&amp;rsquo;s performance. We then train a new model from what we have learned to see if we could improve the original model&amp;rsquo;s performance.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/justinnuwin/Evaluation-of-ASR-in-Musical-Environment&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ASR is used heavily in eyes-busy or hands-busy situations and often time the user may be speaking over noise.
+My peers and I are particularly interested in how music effects ASR decoding.
+We use several music datasets of varied genre or broken-down instrumentation to allow us to perform in-depth anaysis of how different aspects of music influences speech recognizer&amp;rsquo;s performance.
+We then train a new model from what we have learned to see if we could improve the original model&amp;rsquo;s performance.&lt;/p&gt;
+
+  &lt;img src=&#34;https://aryndam9.github.io/projects/asr-music-semester-project/poster.png&#34;  alt=&#34;ASR Music Evaluation semester project poster&#34;  class=&#34;center&#34;  /&gt;
+
+
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/justinnuwin/Evaluation-of-ASR-in-Musical-Environment/blob/master/18-781_Project_Report.pdf&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/projects/asr-music-semester-project/poster.pdf&#34;&gt;Poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/justinnuwin/Evaluation-of-ASR-in-Musical-Environment&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/justinnuwin/Evaluation-of-ASR-in-Musical-Environment#releases&#34;&gt;Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

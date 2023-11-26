@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embedded systems on Arindam Ghosh / Computer Vision Researcher</title>
+    <link>https://aryndam9.github.io/tags/embedded-systems/</link>
+    <description>Recent content in embedded systems on Arindam Ghosh / Computer Vision Researcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Arindam Ghosh</copyright>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IRIS Flight Software Development</title>
+      <link>https://aryndam9.github.io/projects/iris-rover/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aryndam9.github.io/projects/iris-rover/</guid>
+      <description>Github
+I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover. The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS. The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.
+Links: Github </description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/PlanetaryRobotics/CubeRoverPackage&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover.
+The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS.
+The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.&lt;/p&gt;
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PlanetaryRobotics/CubeRoverPackage&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Embedded LS-PIV for Measuring Stream Flows</title>
+      <link>https://aryndam9.github.io/projects/lspiv-semester-project/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aryndam9.github.io/projects/lspiv-semester-project/</guid>
+      <description>Bitbucket not currently public
+The USGS measures stream flows since they are critical for long-term tracking and modeling/forecasting to ensure that federal water priorities and responsibilities can be met and that the nation’s rivers canbe effectively managed. Recently, the USGS has been looking at non-contact methods of collection this data which would allow USGS scientists to gather data more safely and possibly without even going in to the field. One such method is large-scale particle image velocimetry (LS-PIV).</description>
+      <content>&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Bitbucket &lt;strong&gt;not currently public&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The USGS measures stream flows since they are critical for long-term tracking and modeling/forecasting to ensure that federal water priorities and responsibilities can be met and that the nation’s rivers canbe effectively managed.
+Recently, the USGS has been looking at non-contact methods of collection this data which would allow USGS scientists to gather data more safely and possibly without even going in to the field.
+One such method is large-scale particle image velocimetry (LS-PIV).
+LS-PIV is a special case of algorithms that perform optical flow; at its is a cross correlation operation which is expensive in both time complexity and energy usage.
+My peers and I optimize the PIV algorithm to run on a 32-bit embedded microcontroller that can quickly and accurately perform the PIV computation and have a battery life of up to 2 years.&lt;/p&gt;
+
+  &lt;img src=&#34;https://aryndam9.github.io/projects/lspiv-semester-project/poster.png&#34;  alt=&#34;Embedded LS-PIV semester project poster&#34;  class=&#34;center&#34;  /&gt;
+
+
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/projects/lspiv-semester-project/paper.pdf&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/projects/lspiv-semester-project/presentation.pdf&#34;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/projects/lspiv-semester-project/poster.pdf&#34;&gt;Poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Bitbucket &lt;strong&gt;not currently public&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Cal Poly CubeSat Lab (PolySat)</title>
+      <link>https://aryndam9.github.io/experience/polysat-2020/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aryndam9.github.io/experience/polysat-2020/</guid>
+      <description>I was heavily involved in the Cal Poly CubeSat Lab (PolySat) during my undergraduate. While working there for 4 years, I have worked on many CubeSat missions in a variety of roles throughout various mission lifetimes. I list out my accomplishmets and various projects below. I also interned at JPL, working on the MarCO CubeSat which was highly relavent to my experience at the Cal Poly CubeSat Lab.
+Electrical Engineer 2016 - 2020</description>
+      <content>&lt;p&gt;I was heavily involved in the &lt;a href=&#34;https://www.polysat.org&#34;&gt;Cal Poly CubeSat Lab (PolySat)&lt;/a&gt; during my undergraduate.
+While working there for 4 years, I have worked on many CubeSat missions in a variety of roles throughout various mission lifetimes.
+I list out my accomplishmets and various projects below.
+I also interned at &lt;a href=&#34;https://aryndam9.github.io/experience/jpl-2018&#34;&gt;JPL, working on the MarCO CubeSat&lt;/a&gt; which was highly relavent to my experience at the Cal Poly CubeSat Lab.&lt;/p&gt;
+&lt;h3 id=&#34;electrical-engineer&#34;&gt;Electrical Engineer&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2016 - 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rigid and Flexible PCB design in OrCAD and Altium&lt;/li&gt;
+&lt;li&gt;Lead electrical design reviews&lt;/li&gt;
+&lt;li&gt;Design and test side panels and custom flat flex cables for 3 CubeSat missions (CP12-ExoCube2, CP14-ADE, C-SPOT)&lt;/li&gt;
+&lt;li&gt;Assist in design and testing of payload interface boards and various peripheral electronics for 6 CubeSat missions (CP10-ISX, CP12-ExoCube2, CP14-ADE, CP15-Spinnacker3, Falcon, C-SPOT)&lt;/li&gt;
+&lt;li&gt;Design updated ground support debugger for CubeSat flight computer utilizing USB&lt;/li&gt;
+&lt;li&gt;Oversee electrical - software interface and functionality testing&lt;/li&gt;
+&lt;li&gt;Test, verify, and validate flight electronic systems (Power, Communications, Command &amp;amp; Data Handling (C&amp;amp;DH))&lt;/li&gt;
+&lt;li&gt;Develop and troubleshoot embedded Linux flight computer utilizing Atmel processor&lt;/li&gt;
+&lt;li&gt;Tune and checkout flight UHF transceivers&lt;/li&gt;
+&lt;li&gt;Tune antennas using VNA (vector network analyzer)&lt;/li&gt;
+&lt;li&gt;Flight Assembly in Class 100,000 Clean Room&lt;/li&gt;
+&lt;li&gt;Review and improve testing procedures&lt;/li&gt;
+&lt;li&gt;Write documentation for assembly procedures, board modification procedures, and OrCAD design tutorials&lt;/li&gt;
+&lt;li&gt;Train new members in electrical system design, high speed digital design, and PCB design using OrCAD and Altium&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;groundstation-lead&#34;&gt;Groundstation Lead&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2017 - 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organize operations team for various flight missions: CP-7 DAVE, CP-10 ISX, CP-12 ExoCube II&lt;/li&gt;
+&lt;li&gt;Train new members on groundstation infrastructure and operation&lt;/li&gt;
+&lt;li&gt;Maintain Cal Poly&amp;rsquo;s 3 UHF/VHF ground stations used for operating in-orbit spacecraft&lt;/li&gt;
+&lt;li&gt;Coordinate ground station team for spacecraft operations&lt;/li&gt;
+&lt;li&gt;Manage ground station projects (Ground Station In a Box, Local RF Noise Measurement Project)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lab-manager&#34;&gt;Lab Manager&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2018 - 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consult for the start up of new CubeSat programs (LigerSat- Phnom Penh, Cambodia; Bronco Space-Cal Poly Pamona)&lt;/li&gt;
+&lt;li&gt;Lead lab restructuring and redevelopment effort to overhaul training, systems engineering, V&amp;amp;V (verification and validation) checkpoints, hardware development workflows, internal receiving inspections, internal review processes, documentation processes, procedure development, and management and team structures to improve lab efficiency and success&lt;/li&gt;
+&lt;li&gt;Manage CubeSat missions and projects in Cal Poly CubeSat Lab (CP-7 DAVE, CP-12 ExoCube 2, CP-14 ADE, CP-15 Spinnacker3, SWIS, NIAC, Pocket Rocket, Sensor Development)&lt;/li&gt;
+&lt;li&gt;Coordinate design and production timelines to ensure on-time delivery&lt;/li&gt;
+&lt;li&gt;Review discipline team processes to maximize quality&lt;/li&gt;
+&lt;li&gt;Delegate tasks with project and discipline leads to ensure balanced workload throughout engineering teams&lt;/li&gt;
+&lt;li&gt;Improve on system level and electronic subsystem design for early mission designs sharing core hardware used across Cal Poly CubeSat Lab missions&lt;/li&gt;
+&lt;li&gt;Meet with individual teams and team members to assist with testing and assembly tasks and scheduling&lt;/li&gt;
+&lt;li&gt;Improved lab recruiting process&lt;/li&gt;
+&lt;li&gt;Interim CP-12 ExoCube 2 Mission Manager&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
