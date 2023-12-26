@@ -18,7 +18,7 @@ params:
   centerTheme: true
   singlePageSite: true
   # favicon
-  favicon: neural.ico
+  # favicon: neural.ico
   # showLastUpdate: true
   # updatedDatePrefix: Modified
 
@@ -28,7 +28,7 @@ languages:
     title: Arindam Ghosh / Computer Vision Researcher
     subtitle: Arindam Ghosh's Portfolio
     keywords: >-
-      machine learning deep learning artificial intelligence computer vision data science
+      arindam ghosh arindamghosh machine learning deep learning artificial intelligence computer vision data science
       neural network medical imaging image processing image analysis bioinformatics
       hackathons pytorch tensorflow keras scikit-learn opencv python c++/c
     copyright: © 2023 Arindam Ghosh

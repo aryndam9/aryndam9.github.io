@@ -1,13 +1,18 @@
 +++
 title = "Skills"
-cover = "homepage/exocube-hardware-skills.jpg"
+cover = "homepage/arindam_poster_talk (Small).jpg"
 layout = "2col-left"
 +++
 
-- [Python](/tags/python/) and packages such as Numpy, Pandas, PyTorch, Keras, and Sklearn
-- [C/C++](/tags/c++) for desktop and embedded applications with experience with libraries such as [OpenCV](/tags/opencv), Boost, gRPC, ProtoBuf
-- Proficient with [machine learning](/tags/machine-learning) techniques and libraries. Experience working with [computer vision](/tags/computer-vision/) and [speech recognition](/projects/asr-music-semester-project/)
-- Hardware design [PCB layout](/tags/pcb-design/) in Allegro and Altium
-- Experience with [embedded systems](/tags/embedded-systems/), particularly: ultra-low power systems, interconnect protocols, network protocols, and RF design
+- [Image Processing](/tags/image-processing/) and [Computer Vision](/tags/computer-vision/) using OpenCV, TensorFlow, PyTorch
+- [Medical Image Analysis](/tags/medical-imaging/) and  for biomedical image applications
+- Training and deploying [Deep Learning](/tags/deep-learning/) models 
+- [Geospatial Data Analysis](/tags/geospatial-data/) with QGIS, GDAL, GeoPandas
+- Created large dataset of geospatial satellite imagery using INSAT-3D/3DR data
+- [Cloud Computing](/tags/cloud-computing/) with AWS, experience with PySpark, SQL 
+- [Web Development](/tags/web-development/) with React
+- [Python Programming](/tags/python/) for computer vision, data analysis, machine learning
+- [C/C++ Programming](/tags/c++) for performance-critical vision applications
+- [Parallel Programming](/tags/parallel-programming/) with CUDA for GPU optimization
 
 [View all my projects and experiences by tag to find something more specific.](/tags)
