@@ -1,0 +1,5 @@
+{{/* layouts/shortcodes/highlight.html */}}
+{{ $highlightedText := .Get 0 | default "TODO Heading" }}
+{{ $fontSize := .Get 1 | default "1.2em" }}
+
+<span class="highlighted" style="background-color: #4e3c36; padding: 0.1em 0.3em; font-size: {{ $fontSize }}; font-weight: bold; color: #ffa86a; margin: 0;">{{ $highlightedText }}</span>

@@ -9,7 +9,7 @@ params:
   # ["orange", "blue", "red", "green", "pink"]
   themeColor: orange
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems: 6
+  showMenuItems: 7
   # show selector to switch language
   showLanguageSelector: false
   # set theme to full screen width
@@ -58,11 +58,15 @@ languages:
           name: Projects
           url: /projects
           weight: 4
-        - identifier: education
-          name: Education
-          url: /#education
+        - identifier: cv
+          name: CV
+          url: /cv
           weight: 5
+        - identifier: blogs
+          name: Blogs
+          url: /blogs
+          weight: 6
         - identifier: contact
           name: Contact
           url: /#contact
-          weight: 6
+          weight: 7
