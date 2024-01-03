@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aryndam9.github.io/</loc>
-    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aryndam9.github.io/cv/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aryndam9.github.io/tags/fpga/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
@@ -27,6 +30,9 @@
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aryndam9.github.io/tags/embedded-systems/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aryndam9.github.io/blogs/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aryndam9.github.io/experience/</loc>
@@ -99,6 +105,9 @@
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aryndam9.github.io/tags/autonomous-vehicles/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aryndam9.github.io/blogs/cpavsec-2020/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aryndam9.github.io/experience/cpavsec-2020/</loc>
