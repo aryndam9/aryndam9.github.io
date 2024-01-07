@@ -21,7 +21,8 @@
   <div class="sections">
     {{ range .Site.Menus.main }}
       {{ if not (in $.Site.Params.homepageNavEntriesDontRender .Identifier) }} 
-        <section id="{{ .Identifier }}" class="posts section">
+        {{ if (not (eq .Identifier "cv")) }}
+          <section id="{{ .Identifier }}" class="posts section">
           {{ $navLinkPage := $.Site.GetPage .URL }}
           {{ if eq (first 2 .URL) "/#" }}
             <h1 class="section-header">{{ .Name }}<a href="#{{ .Identifier }}" class="hanchor" arialabel="Anchor">⌗</a></h1>
@@ -71,8 +72,9 @@
           {{ end }}
         </section>
         <hr class="section-separator">
-      {{ end }}
     {{ end }}
+  {{ end }}
+{{ end }}
   </div>
 {{ else }}
   <section class="posts">
