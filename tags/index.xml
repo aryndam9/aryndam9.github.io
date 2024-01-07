@@ -7,93 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Arindam Ghosh</copyright>
-    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>fpga</title>
-      <link>https://aryndam9.github.io/tags/fpga/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      <title>autonomous vehicles</title>
+      <link>https://aryndam9.github.io/tags/autonomous-vehicles/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/tags/fpga/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>kernel-development</title>
-      <link>https://aryndam9.github.io/tags/kernel-development/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/kernel-development/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>pcb design</title>
-      <link>https://aryndam9.github.io/tags/pcb-design/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/pcb-design/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>systemverilog</title>
-      <link>https://aryndam9.github.io/tags/systemverilog/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/systemverilog/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>verilog</title>
-      <link>https://aryndam9.github.io/tags/verilog/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/verilog/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>embedded systems</title>
-      <link>https://aryndam9.github.io/tags/embedded-systems/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/embedded-systems/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>rtos</title>
-      <link>https://aryndam9.github.io/tags/rtos/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/rtos/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>databases</title>
-      <link>https://aryndam9.github.io/tags/databases/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/databases/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://aryndam9.github.io/tags/devops/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/devops/</guid>
+      <guid>https://aryndam9.github.io/tags/autonomous-vehicles/</guid>
       <description></description>
       <content></content>
     </item>
@@ -101,7 +21,7 @@
     <item>
       <title>image processing</title>
       <link>https://aryndam9.github.io/tags/image-processing/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://aryndam9.github.io/tags/image-processing/</guid>
       <description></description>
@@ -109,121 +29,11 @@
     </item>
     
     <item>
-      <title>OpenCV</title>
-      <link>https://aryndam9.github.io/tags/opencv/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/opencv/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://aryndam9.github.io/tags/python/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/python/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>deep learning</title>
-      <link>https://aryndam9.github.io/tags/deep-learning/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/deep-learning/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>machine learning</title>
       <link>https://aryndam9.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/machine-learning/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>speech recognition</title>
-      <link>https://aryndam9.github.io/tags/speech-recognition/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/speech-recognition/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>algorithms</title>
-      <link>https://aryndam9.github.io/tags/algorithms/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/algorithms/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>eeg</title>
-      <link>https://aryndam9.github.io/tags/eeg/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/eeg/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>ica</title>
-      <link>https://aryndam9.github.io/tags/ica/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/ica/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>signal processing</title>
-      <link>https://aryndam9.github.io/tags/signal-processing/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/signal-processing/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>cubesat</title>
-      <link>https://aryndam9.github.io/tags/cubesat/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/cubesat/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>microcontrollers</title>
-      <link>https://aryndam9.github.io/tags/microcontrollers/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/microcontrollers/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>autonomous vehicles</title>
-      <link>https://aryndam9.github.io/tags/autonomous-vehicles/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/tags/autonomous-vehicles/</guid>
+      <guid>https://aryndam9.github.io/tags/machine-learning/</guid>
       <description></description>
       <content></content>
     </item>
@@ -239,91 +49,21 @@
     </item>
     
     <item>
-      <title>osdev</title>
-      <link>https://aryndam9.github.io/tags/osdev/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <title>OpenCV</title>
+      <link>https://aryndam9.github.io/tags/opencv/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/tags/osdev/</guid>
+      <guid>https://aryndam9.github.io/tags/opencv/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>x86 asm</title>
-      <link>https://aryndam9.github.io/tags/x86-asm/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <title>python</title>
+      <link>https://aryndam9.github.io/tags/python/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/tags/x86-asm/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>computer vision</title>
-      <link>https://aryndam9.github.io/tags/computer-vision/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/computer-vision/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>robotics</title>
-      <link>https://aryndam9.github.io/tags/robotics/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/robotics/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>ros</title>
-      <link>https://aryndam9.github.io/tags/ros/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/ros/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>data visualization</title>
-      <link>https://aryndam9.github.io/tags/data-visualization/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/data-visualization/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>js</title>
-      <link>https://aryndam9.github.io/tags/js/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/js/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>node</title>
-      <link>https://aryndam9.github.io/tags/node/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/node/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>hpc</title>
-      <link>https://aryndam9.github.io/tags/hpc/</link>
-      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/tags/hpc/</guid>
+      <guid>https://aryndam9.github.io/tags/python/</guid>
       <description></description>
       <content></content>
     </item>

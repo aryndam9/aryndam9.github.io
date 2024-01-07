@@ -39,38 +39,6 @@ Github Linkedin ORCID Email: arindamghosh(dot)work(at)gmail(dot)com </descriptio
     </item>
     
     <item>
-      <title>Education</title>
-      <link>https://aryndam9.github.io/homepage/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aryndam9.github.io/homepage/education/</guid>
-      <description>Carnegie Mellon University M.S. Electrical and Computer Engineering • May 2020 - May 2021
-Low Power code for IOT: Theory behind designing software (especially RTOS) to take advantage of &amp;ldquo;dark silicon&amp;rdquo; on embedded hardware to minimize energy use, thereby maximizing battery life. Speech Recognition and Understanding: Study how speech recognition systems model human speech using HMM+GMM, HMM+DNN, and end-to-end models. Implement simple HMM+GMM word recognizer and Listen, Attend, Spell (LAS) speech recognizer.</description>
-      <content>&lt;h2 id=&#34;carnegie-mellon-university&#34;&gt;Carnegie Mellon University&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;M.S. Electrical and Computer Engineering&lt;/em&gt; • May 2020 - May 2021&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Low Power code for IOT: Theory behind designing software (especially RTOS) to take advantage of &amp;ldquo;dark silicon&amp;rdquo; on embedded hardware to minimize energy use, thereby maximizing battery life.&lt;/li&gt;
-&lt;li&gt;Speech Recognition and Understanding: Study how speech recognition systems model human speech using HMM+GMM, HMM+DNN, and end-to-end models. Implement simple HMM+GMM word recognizer and Listen, Attend, Spell (LAS) speech recognizer.&lt;/li&gt;
-&lt;li&gt;Machine Learning for Signal Processing: Theory behind how machine learning can be applied to signal processing applications. Investigation of data driven signal processing approaches and parallels with machine learning techniques.&lt;/li&gt;
-&lt;li&gt;Image and Video Processing: Theory and implementation of many popular image processing methods with particular emphasis on sparse approximations and linear inverse problems&lt;/li&gt;
-&lt;li&gt;Machine Learning: Theory and implementation of various supervised and unsupervised machine learning algorithms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;california-polytechnic-state-university&#34;&gt;California Polytechnic State University&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;B.S. Computer Engineering&lt;/em&gt; • Sep 2016 - Jun 2020&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Computer Architecture: Introductory computer architecture, ARM RISC instruction set, computing pipelines&lt;/li&gt;
-&lt;li&gt;Implementation of Operating Systems: Implemented x86-64 operating system kernel from scratch&lt;/li&gt;
-&lt;li&gt;Real Time Embedded Systems: Theory of SIMD and parallelized processing in embedded systems with implementation of parallelized processing on Digilent Zybo using ARM Linux and FPGA co-processor&lt;/li&gt;
-&lt;li&gt;Computer Networks: Introductory computer networking covering OSI model, 802.3, TCP/IP, UDP, network switching/routing, and basic network security on Cisco appliances&lt;/li&gt;
-&lt;li&gt;Capstone Project: Intelligent Sensing and Navigation System for NGCP (Northrop Grumman Collaboration Project) Unmanned Ground Vehicle&lt;/li&gt;
-&lt;li&gt;Computer Vision: Introductory course on computer vision algorithms and their theory of operation building on simple operations like edge detection to full feature detection with modern algorithms like SIFT/SURF and neural networks&lt;/li&gt;
-&lt;li&gt;Senior Project - To be published&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Skills</title>
       <link>https://aryndam9.github.io/homepage/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
