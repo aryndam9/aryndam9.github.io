@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arindam Ghosh / Computer Vision Researcher</title>
-    <link>https://aryndam9.github.io/</link>
+    <link>https://arindam.info/</link>
     <description>Recent content on Arindam Ghosh / Computer Vision Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Arindam Ghosh</copyright>
-    <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://arindam.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Blogs</title>
-      <link>https://aryndam9.github.io/blogs/cpavsec-2020/</link>
+      <link>https://arindam.info/blogs/cpavsec-2020/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/blogs/cpavsec-2020/</guid>
+      <guid>https://arindam.info/blogs/cpavsec-2020/</guid>
       <description>Test</description>
       <content>&lt;p&gt;Test&lt;/p&gt;
 </content>
@@ -21,10 +21,10 @@
     
     <item>
       <title>About</title>
-      <link>https://aryndam9.github.io/homepage/about/</link>
+      <link>https://arindam.info/homepage/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/homepage/about/</guid>
+      <guid>https://arindam.info/homepage/about/</guid>
       <description>Hi there! I&amp;rsquo;m Arindam Ghosh, a computer vision researcher working at the intersection of computer vision and medical imaging. My passion lies applying AI to solve Heathcare. I&amp;rsquo;ve led an international team to the top 30 in NASA Space Apps 2022, spoke at the NASA TOPS forum in April 2023, and organized the Barcelona high school Scihack event. Currently, I&amp;rsquo;m working on my startup VisionLabs to build an AI-PACS system for radiologists and serving as a principal scientific researcher at ESTESIA, leveraging geospatial data for improved water management in Chile.</description>
       <content>&lt;p&gt;&lt;strong&gt;Hi there!&lt;/strong&gt; I&amp;rsquo;m &lt;code&gt;Arindam Ghosh&lt;/code&gt;, a computer vision researcher working at the intersection of computer vision and medical imaging. My passion lies applying AI to solve Heathcare. I&amp;rsquo;ve led an international team to the top 30 in NASA Space Apps 2022, spoke at the NASA TOPS forum in April 2023, and organized the Barcelona high school Scihack event. Currently, I&amp;rsquo;m working on my startup &lt;a href=&#34;https://visionlabs.tech/&#34;&gt;VisionLabs&lt;/a&gt; to build an AI-PACS system for radiologists and serving as a principal scientific researcher at ESTESIA, leveraging geospatial data for improved water management in Chile.&lt;/p&gt;
 &lt;p&gt;Outside of work, I like to explore new places, getting geeky about gadgets or trying to fit &amp;ldquo;learn to swim&amp;rdquo; 🏊🏼 and &amp;ldquo;learn to play piano&amp;rdquo; 🎹 in my schedule.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://aryndam9.github.io/homepage/contact/</link>
+      <link>https://arindam.info/homepage/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/homepage/contact/</guid>
+      <guid>https://arindam.info/homepage/contact/</guid>
       <description>Feel free to reach out to me via these platforms:
 Github Linkedin ORCID Email: arindamghosh(dot)work(at)gmail(dot)com </description>
       <content>&lt;p&gt;Feel free to reach out to me via these platforms:&lt;/p&gt;
@@ -52,24 +52,24 @@ Github Linkedin ORCID Email: arindamghosh(dot)work(at)gmail(dot)com </descriptio
     
     <item>
       <title>Skills</title>
-      <link>https://aryndam9.github.io/homepage/skills/</link>
+      <link>https://arindam.info/homepage/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/homepage/skills/</guid>
+      <guid>https://arindam.info/homepage/skills/</guid>
       <description>Image Processing and Computer Vision using OpenCV, TensorFlow, PyTorch Medical Image Analysis and for biomedical image applications Training and deploying Deep Learning models Geospatial Data Analysis with QGIS, GDAL, GeoPandas Created large dataset of geospatial satellite imagery using INSAT-3D/3DR data Cloud Computing with AWS, experience with PySpark, SQL Web Development with React Python Programming for computer vision, data analysis, machine learning C/C++ Programming for performance-critical vision applications Parallel Programming with CUDA for GPU optimization View all my projects and experiences by tag to find something more specific.</description>
       <content>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/image-processing/&#34;&gt;Image Processing&lt;/a&gt; and &lt;a href=&#34;https://aryndam9.github.io/tags/computer-vision/&#34;&gt;Computer Vision&lt;/a&gt; using OpenCV, TensorFlow, PyTorch&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/medical-imaging/&#34;&gt;Medical Image Analysis&lt;/a&gt; and  for biomedical image applications&lt;/li&gt;
-&lt;li&gt;Training and deploying &lt;a href=&#34;https://aryndam9.github.io/tags/deep-learning/&#34;&gt;Deep Learning&lt;/a&gt; models&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/geospatial-data/&#34;&gt;Geospatial Data Analysis&lt;/a&gt; with QGIS, GDAL, GeoPandas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/image-processing/&#34;&gt;Image Processing&lt;/a&gt; and &lt;a href=&#34;https://arindam.info/tags/computer-vision/&#34;&gt;Computer Vision&lt;/a&gt; using OpenCV, TensorFlow, PyTorch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/medical-imaging/&#34;&gt;Medical Image Analysis&lt;/a&gt; and  for biomedical image applications&lt;/li&gt;
+&lt;li&gt;Training and deploying &lt;a href=&#34;https://arindam.info/tags/deep-learning/&#34;&gt;Deep Learning&lt;/a&gt; models&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/geospatial-data/&#34;&gt;Geospatial Data Analysis&lt;/a&gt; with QGIS, GDAL, GeoPandas&lt;/li&gt;
 &lt;li&gt;Created large dataset of geospatial satellite imagery using INSAT-3D/3DR data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/cloud-computing/&#34;&gt;Cloud Computing&lt;/a&gt; with AWS, experience with PySpark, SQL&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/web-development/&#34;&gt;Web Development&lt;/a&gt; with React&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/python/&#34;&gt;Python Programming&lt;/a&gt; for computer vision, data analysis, machine learning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/c++&#34;&gt;C/C++ Programming&lt;/a&gt; for performance-critical vision applications&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aryndam9.github.io/tags/parallel-programming/&#34;&gt;Parallel Programming&lt;/a&gt; with CUDA for GPU optimization&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/cloud-computing/&#34;&gt;Cloud Computing&lt;/a&gt; with AWS, experience with PySpark, SQL&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/web-development/&#34;&gt;Web Development&lt;/a&gt; with React&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/python/&#34;&gt;Python Programming&lt;/a&gt; for computer vision, data analysis, machine learning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/c++&#34;&gt;C/C++ Programming&lt;/a&gt; for performance-critical vision applications&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arindam.info/tags/parallel-programming/&#34;&gt;Parallel Programming&lt;/a&gt; with CUDA for GPU optimization&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://aryndam9.github.io/tags&#34;&gt;View all my projects and experiences by tag to find something more specific.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arindam.info/tags&#34;&gt;View all my projects and experiences by tag to find something more specific.&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     

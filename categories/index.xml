@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Arindam Ghosh / Computer Vision Researcher</title>
-    <link>https://aryndam9.github.io/categories/</link>
+    <link>https://arindam.info/categories/</link>
     <description>Recent content in Categories on Arindam Ghosh / Computer Vision Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Arindam Ghosh</copyright><atom:link href="https://aryndam9.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Arindam Ghosh</copyright><atom:link href="https://arindam.info/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

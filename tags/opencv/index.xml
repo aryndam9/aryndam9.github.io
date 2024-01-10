@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenCV on Arindam Ghosh / Computer Vision Researcher</title>
-    <link>https://aryndam9.github.io/tags/opencv/</link>
+    <link>https://arindam.info/tags/opencv/</link>
     <description>Recent content in OpenCV on Arindam Ghosh / Computer Vision Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Arindam Ghosh</copyright>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aryndam9.github.io/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arindam.info/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Blogs</title>
-      <link>https://aryndam9.github.io/blogs/cpavsec-2020/</link>
+      <link>https://arindam.info/blogs/cpavsec-2020/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aryndam9.github.io/blogs/cpavsec-2020/</guid>
+      <guid>https://arindam.info/blogs/cpavsec-2020/</guid>
       <description>Test</description>
       <content>&lt;p&gt;Test&lt;/p&gt;
 </content>
