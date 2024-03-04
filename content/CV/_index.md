@@ -185,6 +185,7 @@ showFullContent = false
 
 {{< highlight "Fellowships and Awards">}}
 
+- **Awarded 1st Place in the 2023 Telespazio Technology Contest (Italy)** for the ESTESIA project, including EUR 10,000 prize and Seraphim Space Accelerator program.
 - **Fellowship to cover Living expenses** - Institut de Física d’Altes Energies (IFAE), Barcelona, Spain, 2022-2023.
 - **BIST-Full Tuition fee waiver Fellowship** - Barcelona Institute of Science and Technology(BIST)- Universitat Pompeu Fabra(UPF), Spain, 2022-2023.
 - **Panelist at the NASA Transform to Open Science (TOPS) April Forum**.
